@@ -25,7 +25,7 @@ So ,
 
 ### fuzzy set is the set of fuzzy values or values that are not specific.
 
-# Complement of Fuzzy Set 
+# Complement of Fuzzy Set :
 
 ### Complement of fuzzy set A = 1 - ( fuzzy set of A ) 
 
